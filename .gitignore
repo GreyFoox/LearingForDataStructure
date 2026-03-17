@@ -1,1 +1,73 @@
+# Compiled Object files
+*.o
+*.obj
+*.slo
+*.lo
+
+# Executables
 *.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Visual Studio Code
+.vscode/
+.history/
+*.code-workspace
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio files (if you use it sometimes)
+*.sdf
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+ipch/
+*.aps
+*.ncb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mac files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Test data files (if you create input/output files)
+*.txt
+!README.md
+
+# Backup files
+*.bak
+*.backup
+*~
